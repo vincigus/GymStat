@@ -1,0 +1,76 @@
+
+.list-group-item{
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.logout{
+	padding-right: 20px;
+}
+
+.background-image{
+	height: 100%;
+	width: 100%;
+	background-image: 
+            url("http://sabal.uscb.edu/~vincigus/GymStat/View/Gym_Transparent.png");
+}
+
+.background-image2{
+	background-image: 
+            url("http://sabal.uscb.edu/~vincigus/GymStat/View/Gym_Transparent2.png");
+}
+
+#center{
+    color: aqua !important;
+}
+
+#month{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: white;
+	background-color: rgb(50, 197, 223);
+	text-align: center;
+}
+
+#weekdays{
+	padding-left: 20px;
+	padding-right: 50px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#active-color{
+	background-color: rgb(50, 197, 223);
+	color: white;
+}
+
+#active-color:hover{
+	background-color: rgb(50, 140, 223);
+	border-color: rgb(50, 140, 223);
+}
+
+#marg{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+#days td{
+	text-align: center;
+	
+}
+#days th{
+	text-align: center;
+
+}
+
+#sub{
+	background-color: rgb(50, 197, 223);
+	border-color: rgb(50, 197, 223);
+}
+
+#sub:hover{
+	background-color: rgb(50, 140, 223);
+	border-color: rgb(50, 140, 223);
+}
